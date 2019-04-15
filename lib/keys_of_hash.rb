@@ -1,5 +1,5 @@
 class Hash
-  def keys_of(arguments)	  
+  def keys_of(arguments)
 
  argument.each do |arg|
     map do |key,value|
@@ -9,5 +9,5 @@ class Hash
      end
     end
 listOfKeys
-  end	  
-end 	
+  end
+end
