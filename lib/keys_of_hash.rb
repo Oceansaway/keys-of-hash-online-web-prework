@@ -6,8 +6,8 @@ def keys_of(*arguments)
         if v == x
           array << k
         end
-      end 
+      end
     end
     array
-  end	 
+  end
 end 	
